@@ -17,10 +17,10 @@ Uma calculadora elegante e responsiva feita com **JavaScript**, **HTML** e **CSS
 
 ## Demonstração
 
-https://isaquetads.github.io/
+https://calculadora-java-script-nine.vercel.app/
 
 ## Como Usar
 
 1. Clone o repositório: 
    ```bash
-   git clone <URL-do-repositório>
+   git clone https://github.com/IsaqueTADS/Calculadora-JavaScript.git
